@@ -45,3 +45,4 @@ t.prefs_.set('color-palette-overrides',
 t.prefs_.set('cursor-color', "rgba(203, 214, 226, 0.5)");
 t.prefs_.set('foreground-color', base05);
 t.prefs_.set('background-color', base00);
+t.prefs._set('background-image', 'https://i.redd.it/sipnpt3446161.jpg');
